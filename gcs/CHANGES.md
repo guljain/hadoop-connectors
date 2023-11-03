@@ -1,5 +1,7 @@
 # Release Notes
 
+## Next
+
 ## 3.0.0-RC01 - 2023-11-03
 
 1.  Remove Hadoop 2.x support.
